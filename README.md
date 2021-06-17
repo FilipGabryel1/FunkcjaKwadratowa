@@ -7,11 +7,10 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General info
-Program that allows you to calcute any quadratic equation. Project made to learn C#.
+Program that allows you to calcute squareroots of any quadratic equation. Project made to learn C#.
 
 ## Screenshots
 <p align="center">
